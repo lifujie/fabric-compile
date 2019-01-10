@@ -1,2 +1,0 @@
-brew install gnu-tar --with-default-names
-setopt no_nomatch ~/.zshrc
